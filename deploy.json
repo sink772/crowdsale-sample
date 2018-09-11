@@ -1,0 +1,17 @@
+{
+    "uri": "http://127.0.0.1:9000/api/v3",
+    "nid": "0x3",
+    "keyStore": null,
+    "from": "hxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "to": "cx0000000000000000000000000000000000000000",
+    "stepLimit": "0x4000000",
+    "deploy": {
+        "contentType": "zip",
+        "mode": "install",
+        "scoreParams": {
+            "fundingGoalInIcx": "0x64",
+            "tokenScore": "cx9b38b81e58977e140ddf10c1e24578cbef001987",
+            "durationInBlocks": "0x10"
+        }
+    }
+}

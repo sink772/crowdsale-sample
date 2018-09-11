@@ -1,0 +1,7 @@
+.*db/
+.idea/
+.score/
+.venv/
+__pycache__/
+*.log
+*.iml
