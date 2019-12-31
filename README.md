@@ -1,3 +1,7 @@
+> **NOTE: This repository is deprecated and no longer maintained.**
+>
+> Please see the official crowdsale sample: https://github.com/icon-project/samples/tree/master/crowdsale
+
 # Crowdsale Sample
 
 ## Overview
